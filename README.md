@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **avdhoot.patil24@vit.edu**
 
-- **Ask me about**: Graph theory, pathfinding algorithms, or why C++ is superior to Python (except when cleaning data).
+-  **Ask me about**: Graph theory, pathfinding algorithms, or why C++ is superior to Python (except when cleaning data).
   
 - ⚡ Fun fact **I love F1!**
 
@@ -28,6 +28,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AviCodes22&icon=0&color=#00FFFF)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=AviCodes22&color=00ffff)](https://github.com/AviCodes22)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
