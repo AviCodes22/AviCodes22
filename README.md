@@ -28,6 +28,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://komarev.com/ghpvc/?username=AviCodes22&icon=0&color=black)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=AviCodes22&icon=0&color=#00FFFF)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
