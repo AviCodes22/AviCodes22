@@ -12,7 +12,7 @@
   
 - ⚡ Fun fact **I love F1!**
 
-
+<img width="750" height="409" alt="giphy (1)" src="https://github.com/user-attachments/assets/bbc4b31c-f657-4eb2-ac12-9405270d0fea" />
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avdhootpatilnsk@gmail.com) 
